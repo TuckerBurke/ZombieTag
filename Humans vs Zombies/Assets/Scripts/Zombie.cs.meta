@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a48b5bac7acdd704e94f6788dbce460d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - agentForward: {fileID: 2100000, guid: 79dae3c1dbc571b46868abc9485f1315, type: 2}
+  - agentRight: {fileID: 2100000, guid: be4816ed1b13e1b4483dc70beed70993, type: 2}
+  - zombieToHuman: {fileID: 2100000, guid: 127a9b214e0202246ba1cd6d89b2f986, type: 2}
+  - zombieFuturePos: {fileID: 2100000, guid: 5e659c7209d3969409a64c02558c5fdd, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
