@@ -5,7 +5,7 @@ Created in Unity Engine with C#. I'm pretty happy with the balance of forces in 
 It looks genuinely organic. I will revisit this project with 3D flocking for sure. You can
 test it out for yourself [here](http://tuckerburke.com/Retro-Future-Lorenz-Attractor/).
 ## Navigation 
-[JavaScript Files](src)  
+[C# Scripts](Humans-vs-Zombies/Assets/Scripts/)  
 [HTML](index.html)  
 [Play](http://tuckerburke.com/Retro-Future-Lorenz-Attractor/)   
 ## Screen Captures
